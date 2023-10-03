@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wedding
+X-WR-TIMEZONE:Asia/Jakarta
+BEGIN:VTIMEZONE
+TZID:Asia/Jakarta
+X-LIC-LOCATION:Asia/Jakarta
+BEGIN:STANDARD
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:WIB
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221008
+DTEND;VALUE=DATE:20221010
+DTSTAMP:20230827T140841Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t4egkomdb2680ip9vgg25nakicm1udd2pj13b394j95bhbvcqt4g0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Adit A
+ bdul;X-NUM-GUESTS=0:mailto:adit.anticopyright@gmail.com
+CLASS:PRIVATE
+CREATED:20221008T072715Z
+DESCRIPTION:SPOT ON 2190 Alamanda 7 Syariah\nSPOT ON 2190 Alamanda 7 Syaria
+ h\n+62 21 29707601\n\nCheck-in: Oct 8\, 2022 2:00pm\nCheck-out: Oct 9\, 202
+ 2 12:00pm\n
+LAST-MODIFIED:20221008T072715Z
+LOCATION:SPOT ON 2190 Alamanda 7 Syariah
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at SPOT ON 2190 Alamanda 7 Syariah
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20230916T070000
+DTEND;TZID=Asia/Jakarta:20230916T220000
+RRULE:FREQ=DAILY
+DTSTAMP:20230827T140841Z
+UID:4pvh5l2e5v71rd505s0plp9oub@google.com
+CLASS:PUBLIC
+CREATED:20230827T140218Z
+DESCRIPTION:<b>Bismillahirrahmanirrahim</b><br>Kami mengundang Bapak/Ibu/Sa
+ udara/i untuk hadir di acara pernikahan kami. InsyaAllah akan diadakan di<b
+ r><br>Akad Nikah : Gedung Mepro Hall\, 16 September 2023 - 10:00.<br><br>Re
+ sepsi : Gedung Mepro Hall\, 16 September 2023 - 10:00.<br><br>Lokasi : <spa
+ n>Gedung Mepro Hall\,</span><span>  </span><span>Jl. Soekarno Hatta No.789\
+ , Babakan Penghulu\, Kec. Cinambo\, Kota Bandung\, Jawa Barat 40293</span><
+ span> </span><br><br>Regards\,<br><u>Yosi dan Dudi</u>
+LAST-MODIFIED:20230827T140218Z
+LOCATION:Jl. Soekarno Hatta No.789\, Babakan Penghulu\, Kec. Cinambo\, Kota
+  Bandung\, Jawa Barat 40293\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pernikahan Yosa dan Dudi
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
